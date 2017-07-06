@@ -1,0 +1,23 @@
+.style{
+    font-family: Courier;
+    background-color: #AFEEEE;
+}
+
+.intro{
+    text-align: center;
+    
+}
+
+.container{
+    background-color: #D5D75B;
+    
+    
+}
+
+.lcol{
+    float: right;
+}
+
+.container label{
+    text-align: right;
+}
